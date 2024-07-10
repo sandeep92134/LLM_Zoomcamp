@@ -162,3 +162,5 @@ cython_debug/
 #.idea/
 .env
 .devcontainer
+.02_opensource/ollama_files*
+.02_opensource/dockerfile
