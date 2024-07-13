@@ -164,3 +164,5 @@ cython_debug/
 .devcontainer
 .02_opensource/ollama_files*
 .02_opensource/dockerfile
+.03_vector-search/eval/Homework3.ipynb
+.03_vector-search/eval/minsearch.py
